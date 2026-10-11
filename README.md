@@ -12,6 +12,7 @@ A curated list of JSON formatters, validators, API debugging tools, and librarie
 - [JSONLint](https://jsonlint.com) - Simple JSON validator with error highlighting.
 - [jq play](https://jqplay.org) - Online playground for the jq command-line processor.
 - [JSON Editor Online](https://jsoneditoronline.org) - Tree view editor for exploring nested JSON.
+- [BestJSON JSON Viewer](https://bestjson.com/json-viewer) - Explore nested JSON as a searchable tree and inspect keys, values and paths.
 
 ### API Tools
 
